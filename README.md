@@ -19,6 +19,7 @@
 
 ## Что нового?
 
+* [Что нового в Amplicode 2025.2](releases/2025.3.md)
 * [Что нового в Amplicode 2025.2](releases/2025.2.md)
 * [Что нового в Amplicode 2025.1](releases/2025.1.md)
 * [Что нового в Amplicode 2024.3](releases/2024.3.md)
